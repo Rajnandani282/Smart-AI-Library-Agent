@@ -1,0 +1,44 @@
+COURSE: CS601 - Artificial Intelligence
+DEPARTMENT: Computer Science
+SEMESTER: 6th Semester
+CREDITS: 4
+
+COURSE DESCRIPTION:
+A comprehensive introduction to AI covering search, knowledge representation, reasoning under uncertainty, and modern machine learning methods.
+
+UNIT 1: Introduction to AI
+- History and philosophy of AI
+- Rational agents and environments
+- State of the art applications
+Recommended Books: Artificial Intelligence: A Modern Approach (Russell & Norvig)
+
+UNIT 2: Search
+- Uninformed search: BFS, DFS, UCS
+- Informed search: A*, heuristics, admissibility
+- Local search: hill climbing, simulated annealing, genetic algorithms
+Recommended Books: Artificial Intelligence: A Modern Approach (Russell & Norvig)
+
+UNIT 3: Knowledge Representation and Reasoning
+- Propositional and first-order logic
+- Inference procedures, resolution
+- Knowledge graphs and ontologies
+Recommended Books: Artificial Intelligence: A Modern Approach (Russell & Norvig)
+
+UNIT 4: Probabilistic Reasoning
+- Bayesian networks
+- Hidden Markov Models
+- Monte Carlo methods
+Recommended Books: Artificial Intelligence: A Modern Approach (Russell & Norvig), Pattern Recognition and Machine Learning (Bishop)
+
+UNIT 5: Learning
+- Supervised and unsupervised learning review
+- Reinforcement learning basics
+- Deep learning for AI applications
+Recommended Books: Deep Learning (Goodfellow), Artificial Intelligence: A Modern Approach (Russell & Norvig)
+
+UNIT 6: NLP and Computer Vision
+- Text classification, information extraction
+- Object detection, image segmentation
+Recommended Books: Natural Language Processing with Python (Bird), Computer Vision (Szeliski)
+
+ASSESSMENT: Assignments (30%), Mid-term (30%), End-term (40%)

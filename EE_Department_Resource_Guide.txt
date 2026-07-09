@@ -1,0 +1,16 @@
+DEPARTMENT: Electrical Engineering
+INSTITUTION: University Central Library
+
+=== ESSENTIAL TEXTBOOKS ===
+
+CIRCUIT THEORY & ELECTRONICS
+- Engineering Circuit Analysis — Hayt, Kemmerly | 9th Ed. | Location: EE-A1
+- Microelectronics Circuit Analysis and Design — Neamen | 4th Ed. | Location: EE-C1
+
+SIGNALS & SYSTEMS
+- Signals and Systems — Oppenheim & Willsky | 2nd Ed. | Location: EE-B1
+- Digital Signal Processing — Proakis & Manolakis | 4th Ed. | Location: EE-B2
+
+=== ONLINE RESOURCES ===
+- IEEE Xplore: https://ieeexplore.ieee.org
+- NPTEL Electrical Engineering: https://nptel.ac.in (free)

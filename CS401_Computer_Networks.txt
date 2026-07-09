@@ -1,0 +1,40 @@
+COURSE: CS401 - Computer Networks
+DEPARTMENT: Computer Science
+SEMESTER: 4th Semester
+CREDITS: 4
+
+COURSE DESCRIPTION:
+This course introduces the principles and practice of computer networking. Topics include protocol layers, data link protocols, routing, transport layer, and application protocols.
+
+UNIT 1: Introduction & Physical Layer
+- Network models: OSI and TCP/IP
+- Transmission media, bandwidth, data encoding
+- Multiplexing: FDM, TDM, WDM
+Recommended Books: Computer Networks (Tanenbaum), Data Communications and Networking (Forouzan)
+
+UNIT 2: Data Link Layer
+- Framing, error detection (CRC, checksum), flow control
+- MAC protocols: CSMA/CD, CSMA/CA
+- Ethernet and 802.11 WiFi
+Recommended Books: Computer Networks (Tanenbaum)
+
+UNIT 3: Network Layer
+- IP addressing: IPv4, CIDR, subnetting, IPv6
+- Routing algorithms: distance vector, link state
+- OSPF, BGP, ICMP
+Recommended Books: Computer Networks (Tanenbaum)
+
+UNIT 4: Transport Layer
+- UDP and TCP: header, connection establishment, flow control
+- Congestion control: slow start, congestion avoidance
+- TCP Reno, TCP cubic
+Recommended Books: Computer Networks (Tanenbaum)
+
+UNIT 5: Application Layer
+- DNS, HTTP/HTTPS, SMTP, FTP
+- REST APIs and web services
+- Peer-to-peer networking
+- Network security: TLS, firewalls
+Recommended Books: Computer Networks (Tanenbaum)
+
+ASSESSMENT: Labs (30%), Mid-term (30%), End-term (40%)
