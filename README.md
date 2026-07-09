@@ -1,12 +1,6 @@
 # Library AI Agent — Deployment & Setup Guide
 
-> Library AI Agent is an AI-powered library assistant developed to help students find books, explore course syllabi, and get useful academic recommendations through a simple chat interface.
-
-The project combines Retrieval-Augmented Generation (RAG) with IBM watsonx.ai to search information from the library knowledge base and provide relevant responses. It also allows users to search books, check availability, view recommended reading lists, and access department resources.
-
-The application is built using Python, Flask, IBM watsonx.ai, ChromaDB/FAISS, and Bootstrap, making it easy to run locally as well as deploy on cloud platforms.
-
-This project is designed to make library services faster, smarter, and more convenient for students by providing information through natural language conversations.
+> **Stack:** Python 3.11 · Flask 3 · IBM watsonx.ai (Granite-13B-Chat) · ChromaDB / FAISS · Sentence-Transformers · Bootstrap 5
 
 ---
 
