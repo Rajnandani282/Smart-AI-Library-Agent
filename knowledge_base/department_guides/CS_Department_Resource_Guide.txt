@@ -1,0 +1,50 @@
+DEPARTMENT: Computer Science
+INSTITUTION: University Central Library
+
+=== ESSENTIAL TEXTBOOKS ===
+
+DATA STRUCTURES & ALGORITHMS
+- Introduction to Algorithms (CLRS) - Cormen, Leiserson, Rivest, Stein | 4th Ed. | Location: CS-A1
+  Note: MOST ISSUED book in CS department. 5 copies available. Waitlist common mid-semester.
+- Data Structures and Algorithm Analysis in C++ - Weiss | 4th Ed. | Location: CS-A2
+- Discrete Mathematics and Its Applications - Rosen | 8th Ed. | Location: CS-G1
+
+PROGRAMMING
+- Python Crash Course - Matthes | 3rd Ed. | Location: CS-H1 | Beginner friendly
+- Clean Code - Martin | 1st Ed. | Location: CS-F2
+- The Pragmatic Programmer - Thomas & Hunt | 2nd Ed. | Location: CS-F3
+
+ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
+- Artificial Intelligence: A Modern Approach - Russell & Norvig | 4th Ed. | Location: CS-D1 | HIGH DEMAND
+- Pattern Recognition and Machine Learning - Bishop | 1st Ed. | Location: CS-D2 | WAITLIST
+- Deep Learning - Goodfellow, Bengio, Courville | 1st Ed. | Location: CS-D3
+- Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow - Geron | 3rd Ed. | Location: CS-D6 | HIGH DEMAND
+- Data Science from Scratch - Grus | 2nd Ed. | Location: CS-D5
+- Reinforcement Learning: An Introduction - Sutton & Barto | 2nd Ed. | Location: CS-D8
+- Natural Language Processing with Python - Bird, Klein, Loper | 1st Ed. | Location: CS-D7
+- Computer Vision: Algorithms and Applications - Szeliski | 2nd Ed. | Location: CS-D4
+
+SYSTEMS & NETWORKING
+- Operating System Concepts (Dinosaur Book) - Silberschatz | 10th Ed. | Location: CS-B1
+- Computer Networks - Tanenbaum | 6th Ed. | Location: CS-B2 | ALL COPIES ISSUED
+- Computer Organization and Design (RISC-V) - Patterson & Hennessy | 6th Ed. | Location: CS-E1
+
+DATABASES & SOFTWARE ENGINEERING
+- Database System Concepts - Silberschatz | 7th Ed. | Location: CS-C1
+- Software Engineering - Sommerville | 10th Ed. | Location: CS-F1
+
+THEORY OF COMPUTATION
+- Theory of Computation - Sipser | 3rd Ed. | Location: CS-J1
+- Compiler Design (Dragon Book) - Aho et al. | 2nd Ed. | Location: CS-I1
+
+=== ONLINE RESOURCES ===
+- IEEE Xplore: https://ieeexplore.ieee.org (access via institutional login)
+- ACM Digital Library: https://dl.acm.org (access via institutional login)
+- MIT OpenCourseWare: https://ocw.mit.edu (free)
+- arXiv CS Section: https://arxiv.org/cs (free preprints)
+- GeeksforGeeks: https://geeksforgeeks.org (supplementary, free)
+
+=== FACULTY RECOMMENDATIONS FOR CS DEPT (This Semester) ===
+For 3rd Sem students: Focus on CLRS (Algorithms) and Silberschatz (OS)
+For 5th Sem students: Deep Learning (Goodfellow) + Hands-On ML (Geron) + AIMA (Russell)
+For final year projects: IEEE Xplore access is mandatory for literature review
